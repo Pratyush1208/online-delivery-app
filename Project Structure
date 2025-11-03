@@ -1,0 +1,22 @@
+online-delivery-app/
+│
+├── backend/
+│   ├── app.js
+│   ├── routes/
+│   ├── models/
+│   ├── controllers/
+│   ├── package.json
+│   └── README.md
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── README.md
+│
+├── database/
+│   └── schema.sql
+│
+├── .gitignore
+├── README.md
+└── LICENSE
